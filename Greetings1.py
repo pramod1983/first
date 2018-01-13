@@ -1,5 +1,7 @@
-print 'Good Morning'
-print 'Good Afternoon'
-print 'Good Evening'
+<<<<<<< HEAD
+print 'Good morning'
+print 'Good afternoon'
+print 'Good evening'
 
-ptint 'test'
+print 'test'
+
